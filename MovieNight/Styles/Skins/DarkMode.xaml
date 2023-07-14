@@ -13,7 +13,7 @@
     <!--  Color Palette  -->
     <SolidColorBrush x:Key="color0" Color="#181818" />
     <SolidColorBrush x:Key="color1" Color="#b4d429" />
-    <SolidColorBrush x:Key="color4" Color="#888888" />
+    <SolidColorBrush x:Key="color2" Color="#b9d839" />
 
 
     <!--  Font Colors  -->
