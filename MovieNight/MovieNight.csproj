@@ -11,6 +11,15 @@
     <None Remove="Resources\Fonts\BebasNeue-Regular.ttf" />
     <None Remove="Resources\Images\Background.png" />
     <None Remove="Resources\Images\Profile.jfif" />
+    <None Remove="Resources\Images\Show1.jpeg" />
+    <None Remove="Resources\Images\Show2.jpeg" />
+    <None Remove="Resources\Images\Show3.jpeg" />
+    <None Remove="Resources\Images\Test1.jpg" />
+    <None Remove="Resources\Images\Test2.jpg" />
+    <None Remove="Resources\Images\Test3.jpeg" />
+    <None Remove="Resources\Images\Test4.jpeg" />
+    <None Remove="Resources\Images\Test5.jpeg" />
+    <None Remove="Resources\Images\Test6.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +34,15 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Resources\Images\Profile.jfif" />
+    <Resource Include="Resources\Images\Show1.jpeg" />
+    <Resource Include="Resources\Images\Show2.jpeg" />
+    <Resource Include="Resources\Images\Show3.jpeg" />
+    <Resource Include="Resources\Images\Test1.jpg" />
+    <Resource Include="Resources\Images\Test2.jpg" />
+    <Resource Include="Resources\Images\Test3.jpeg" />
+    <Resource Include="Resources\Images\Test4.jpeg" />
+    <Resource Include="Resources\Images\Test5.jpeg" />
+    <Resource Include="Resources\Images\Test6.jpg" />
   </ItemGroup>
 
   <ItemGroup>
