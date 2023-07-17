@@ -45,8 +45,4 @@
     <Resource Include="Resources\Images\Test6.jpg" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Components\" />
-  </ItemGroup>
-
 </Project>

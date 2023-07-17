@@ -93,7 +93,7 @@
                 </Grid>
             </Grid>
             <Grid Grid.Row="1">
-                <ContentControl x:Name="Controller" Content="MoviesView" />
+                <ContentControl x:Name="Controller" Content="TvShowsView" />
             </Grid>
         </Grid>
     </Border>

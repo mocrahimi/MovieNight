@@ -15,7 +15,7 @@ namespace MovieNight
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            MoviesView moviesView = new MoviesView();
+            TvShowsView moviesView = new TvShowsView();
             Controller.Content = moviesView;
         }
     }
